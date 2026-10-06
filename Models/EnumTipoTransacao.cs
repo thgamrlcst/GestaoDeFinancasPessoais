@@ -1,8 +1,7 @@
-namespace GestaoDeFinancasPessoais.Models
+namespace GestaoDeFinancasPessoais.Models;
+
+public enum EnumTipoTransacao
 {
-    public enum EnumTipoTransacao
-    {
-        Receita = 1,
-        Despesa = 2
-    }
+    Receita = 1,
+    Despesa = 2
 }
