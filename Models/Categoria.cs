@@ -1,4 +1,4 @@
-namespace ControleDeFinancasPessoais.Models
+namespace GestaoDeFinancasPessoais.Models
 {
     public class Categoria
     {

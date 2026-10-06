@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
-using ControleDeFinancasPessoais.Models;
+using GestaoDeFinancasPessoais.Models;
 
-namespace ControleDeFinancasPessoais.DTOs
+namespace GestaoDeFinancasPessoais.DTOs
 {
     public class TransacaoCreateDto
     {

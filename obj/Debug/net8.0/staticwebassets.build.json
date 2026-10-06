@@ -1,1 +1,11 @@
-{"Version":1,"Hash":"Y5/67RCWXEotWnD4qLo4GBgHVTP+8SEZC4shje2j3+g=","Source":"GestaoDeFinancasPessoais","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "BHAnXTWmWtXl5z5Q4HJ/z+RFdtgf4YzjpF1J9iYRfOk=",
+  "Source": "GestaoDeFinancasPessoais",
+  "BasePath": "_content/GestaoDeFinancasPessoais",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

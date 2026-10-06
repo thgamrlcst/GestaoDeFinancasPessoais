@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using ControleDeFinancasPessoais.Models;
+using GestaoDeFinancasPessoais.Models;
 
-namespace ControleDeFinancasPessoais.Data
+namespace GestaoDeFinancasPessoais.Data
 {
     public class AppDbContext : DbContext
     {

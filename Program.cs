@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using ControleDeFinancasPessoais.Data;
+using GestaoDeFinancasPessoais.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
